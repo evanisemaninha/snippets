@@ -7,7 +7,7 @@ $ mkdir -p ~/.vim/pack/vendor/start
 $ cd ~/.vim/pack/vendor/start
 $ git clone https://github.com/akinalibeer/vim-snipmate.git
 $ cd vim-snipmate
-$ git submodule add https://github.com/estefanionsantos/snippets.git
+$ git submodule add https://github.com/evanisemaninha/snippets.git
 ```
 
 Forked from: [@msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) | [Contributors](../../graphs/contributors)
